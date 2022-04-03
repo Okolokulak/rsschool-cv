@@ -43,12 +43,10 @@ function updateLight(current) {
 
 ## Education
 
-* Belarusian State Economic University
- * Faculty of law
-* Udemy
- * [Complete Javascript & jQuery Course](https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/)
+* Belarusian State Economic University: Faculty of law
+* Udemy: [Complete Javascript & jQuery Course](https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/)
 
- ## Languages
+## Languages
 
  * Russian - native
  * English - B1
