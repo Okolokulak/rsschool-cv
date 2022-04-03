@@ -1,6 +1,6 @@
 # Alexander Okolokulak
 
-* My Contact Info:
+## My Contact Info:
 * Phone: +375 33 3196592
 * E-mail: [Okolokulak@mail.ru](okolokulak@mail.ru)
 * GitHub: [Okolokulak](https://github.com/Okolokulak)
